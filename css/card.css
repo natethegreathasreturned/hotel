@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    background-color: floralwhite;
+}    
+button{
+    background-image: url(https://cdn.pixabay.com/photo/2016/11/23/13/48/beach-1852945_960_720.jpg);
+    width: 200px;
+    height: 50px;
+    cursor: pointer;
+}
+img{
+    height: 50%;
+}
